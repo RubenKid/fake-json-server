@@ -1,3 +1,5 @@
 {
-    "element": "Movie1"
+    "glaze: {
+        "element": "Movie1"
+    }
 }
